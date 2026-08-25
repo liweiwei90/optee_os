@@ -66,6 +66,10 @@ AllWinner sun50i A64
 S:	Orphan
 F:	core/arch/arm/plat-sunxi/
 
+AllWinner sun60i A733
+S:	Orphan
+F:	core/arch/arm/plat-sunxi/
+
 AMD Versal Gen 2
 R:	Michal Simek <michal.simek@amd.com> [@michalsimek]
 R:	Akshay Belsare <akshay.belsare@amd.com> [@Akshay-Belsare]
